@@ -36,10 +36,8 @@ Surface concentration
 
 Point graph
 
-![image](https://user-images.githubusercontent.com/86640902/209019075-1f9386a0-c512-4cee-8619-58089ef1db06.png)
+![image](https://user-images.githubusercontent.com/86640902/209019163-29b680bf-03a6-4c6a-9594-79315b156db9.png)
 
 Gas transport during injection processes
-
-![image](https://user-images.githubusercontent.com/86640902/209019163-29b680bf-03a6-4c6a-9594-79315b156db9.png)
 
 ![Concentration](https://user-images.githubusercontent.com/86640902/209023203-4f951c5c-2070-406c-b8a9-1de68f5b3a5c.gif)
