@@ -1,4 +1,4 @@
-# COMSOL_gas_transport_and-turbulent_flow_analysis
+# COMSOL_modeling_gas_transport_and-turbulent_flow_analysis
 
 
 | Name     | Expression      | Value     |  Description     |
