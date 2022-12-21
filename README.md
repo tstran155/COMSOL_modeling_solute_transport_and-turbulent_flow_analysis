@@ -22,15 +22,24 @@
 | alpha	| 0 [1/K]	| 0 1/K |	 |
 | ro_oil	| 820[kg/m^3]	| 820 kg/m³	| Density of oil |
 
+Geometry
 
 ![Geometry](https://user-images.githubusercontent.com/86640902/209020350-a7b6245a-777b-45c9-8286-8179784ca0c6.png)
 
-![image](https://user-images.githubusercontent.com/86640902/209019242-9d0638b4-4716-4daf-becd-102f15ec2286.png)
+Surface velocity
 
-![image](https://user-images.githubusercontent.com/86640902/209019027-56b74eea-8ffd-4d60-be05-a8dfff28ccd8.png)
+![image](https://user-images.githubusercontent.com/86640902/209023584-7cbfe43e-4d45-42a0-a5d9-37900b8e2c1e.png)
+
+Surface concentration
+
+![image](https://user-images.githubusercontent.com/86640902/209023651-0cb2ebe5-e095-41e1-9bd9-f9cdf65746fe.png)
+
+Point graph
 
 ![image](https://user-images.githubusercontent.com/86640902/209019075-1f9386a0-c512-4cee-8619-58089ef1db06.png)
 
+Gas transport during injection processes
+
 ![image](https://user-images.githubusercontent.com/86640902/209019163-29b680bf-03a6-4c6a-9594-79315b156db9.png)
 
-![Concentration](https://user-images.githubusercontent.com/86640902/209018573-1e94d45a-f478-4563-a396-084664c4dc2c.gif)
+![Concentration](https://user-images.githubusercontent.com/86640902/209023203-4f951c5c-2070-406c-b8a9-1de68f5b3a5c.gif)
