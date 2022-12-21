@@ -7,19 +7,13 @@
 | V_oil_ini	| 270e-6 [m^3] |	2.7E-4 m³	| Initial volume of oil |
 | M_oil	| 0.209[kg/mol]	| 0.209 kg/mol	| Molecular weight of oil |
 | m_oil	| (V_oil_ini)*(ro_oil)	| 0.2214 kg	| Mass of oil in the cell |
-| TOI	| 50[C]	| 50 C	| System temperature |
 | P_ini	| 1.01e5[Pa]	| 1.01E5 Pa	| Initial pressure |
 | P_set	| 1.39e7[Pa]	| 1.39E7 Pa	| Setting pressure |
 | P_inj	| 5.45e6[Pa]	| 5.45E6 Pa	| Injection pressure |
-| time_ini	| 100[s]	| 100 s |  |	
-| R	| 8.314[J/(K*mol)]	| 8.314 J/(mol·K) |  |	
 | TK	| 273+50[K]	| 323 K	| System temperature |
 | q	| 6.39E-7[m^3/s]	| 6.39E-7 m³/s	| Injection rate |
 | A	| 0.00828[m^2]	| 0.00828 m²	| Surface area |
 | M_C1	| 0.01604[kg/mol]	| 0.01604 kg/mol	| Molecular weight of gas |
-| c_oil	| 3923.44[mol/m^3]	| 3923.4 mol/m³	|  |
-| B	| 1e-2[m^3/mol]	| 0.01 m³/mol |  |	
-| alpha	| 0 [1/K]	| 0 1/K |	 |
 | ro_oil	| 820[kg/m^3]	| 820 kg/m³	| Density of oil |
 
 Geometry
