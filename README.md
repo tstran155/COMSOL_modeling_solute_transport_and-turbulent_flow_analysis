@@ -34,7 +34,7 @@ Surface concentration
 
 ![image](https://user-images.githubusercontent.com/86640902/209023651-0cb2ebe5-e095-41e1-9bd9-f9cdf65746fe.png)
 
-Point graph
+Center point - concentration changes over time
 
 ![image](https://user-images.githubusercontent.com/86640902/209019163-29b680bf-03a6-4c6a-9594-79315b156db9.png)
 
