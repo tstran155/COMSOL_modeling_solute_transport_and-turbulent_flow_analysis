@@ -52,7 +52,7 @@ Here are the data input for the model and some key results.
 
 **Concentration changes over time at the center point**
 
-There are spikes in the data at times 80 seconds and 300 seconds, which correspond to the appearance of finger-like turbulent flows that can be observed in the animation of the entire gas injection process.
+There are spikes in the data at times 80 seconds and 310 seconds, which correspond to the appearance of finger-like turbulent flows that can be observed in the animation of the entire gas injection process.
 
 ![image](https://user-images.githubusercontent.com/86640902/209028214-8a301ccb-f133-4c1b-949b-7b758372cb2f.png)
 
