@@ -64,4 +64,6 @@ There are spikes in the data at times 80 seconds and 310 seconds, which correspo
 
 **Gas transport during injection processes**
 
+Rayleigh number, Ra = 154
+
 ![Concentration](https://user-images.githubusercontent.com/86640902/209023203-4f951c5c-2070-406c-b8a9-1de68f5b3a5c.gif)
