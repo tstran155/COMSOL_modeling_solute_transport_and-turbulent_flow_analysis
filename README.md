@@ -38,6 +38,10 @@ Here are the data input for the model and some key results.
 
 ![Geometry](https://user-images.githubusercontent.com/86640902/209020350-a7b6245a-777b-45c9-8286-8179784ca0c6.png)
 
+**System mesh**
+
+![image](https://user-images.githubusercontent.com/86640902/209035793-a851118e-5062-49fb-9109-b1cb3a2bf08c.png)
+
 **Plot of surface velocity**
 
 ![image](https://user-images.githubusercontent.com/86640902/209023584-7cbfe43e-4d45-42a0-a5d9-37900b8e2c1e.png)
