@@ -1,7 +1,19 @@
 # COMSOL_modeling_gas_transport_and-turbulent_flow_analysis
 
+COMSOL Multiphysics is capable of modeling and analyzing a wide range of physical phenomena, including the transport of gas into the bulk oil phase during gas injection or CO2 sequestration. This type of phenomenon can occur in a variety of applications, such as in the oil and gas industry, where gas may be injected into an oil and gas reservoirs for storage.
 
 
+I used the Transport of Diluted Species and Large Eddy Simulation Residual Based Variational Multiscale (LES RBVM) Modules in COMSOL Multiphysics to model the transport of gas into the bulk oil phase during gas injection processes. This model was used to simulate the visualization study of gas/oil interactions as detailed in SPE-201109-PA.
+Here are steps to set up the COMSOL model and perform computation of pressure, velocity and concentration over time:
+
+
+1.	The gas and oil phases: Define the properties of the gas and the oil, such as their densities, viscosities, and diffusivities.
+
+
+2.	The boundary conditions: Specify the boundary conditions of the system and at the inlet of the system such as the gas injection rate and pressure.
+
+
+3.	The governing equations: Set up the transport equations for the gas and the oil phases.
 
 
 Data input deck
