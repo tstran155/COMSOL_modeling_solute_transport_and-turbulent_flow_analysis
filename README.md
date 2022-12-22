@@ -3,8 +3,8 @@
 COMSOL Multiphysics is capable of modeling and analyzing a wide range of physical phenomena, including the transport of gas into the bulk oil phase during gas injection or CO2 sequestration. This type of phenomenon can occur in a variety of applications, such as in the oil and gas industry, where gas may be injected into an oil and gas reservoirs for storage.
 
 
-I used the Transport of Diluted Species and Large Eddy Simulation Residual Based Variational Multiscale (LES RBVM) Modules in COMSOL Multiphysics to model the transport of gas into the bulk oil phase during gas injection processes. This model was used to simulate the visualization study of gas/oil interactions as detailed in SPE-201109-PA.
-Here are steps to set up the COMSOL model and perform computation of pressure, velocity and concentration over time:
+I used the Transport of Diluted Species and Large Eddy Simulation Residual Based Variational Multiscale (LES RBVM) Modules in COMSOL Multiphysics to model the transport of gas into the bulk oil phase during gas injection processes. This model was used to simulate the visualization study of C1/Montney-oil interactions as detailed in the attached article SPE-201109-PA.
+Main steps to set up the COMSOL model and perform computation of pressure, velocity and concentration over time are as follows:
 
 
 1.	The gas and oil phases: Define the properties of the gas and the oil, such as their densities, viscosities, and diffusivities.
@@ -15,8 +15,9 @@ Here are steps to set up the COMSOL model and perform computation of pressure, v
 
 3.	The governing equations: Set up the transport equations for the gas and the oil phases.
 
+Here are the data input for the model and some key results.
 
-Data input deck
+**Data input deck**
 
 | Name     | Expression      | Value     |  Description     |
 | ------------- | ------------- | -------- | --------- |
@@ -33,19 +34,19 @@ Data input deck
 | M_C1	| 0.01604[kg/mol]	| 0.01604 kg/mol	| Molecular weight of gas |
 | ro_oil	| 820[kg/m^3]	| 820 kg/m³	| Density of oil |
 
-Geometry
+**Geometry of the system and boundary conditions**
 
 ![Geometry](https://user-images.githubusercontent.com/86640902/209020350-a7b6245a-777b-45c9-8286-8179784ca0c6.png)
 
-Surface velocity
+**Plot of surface velocity**
 
 ![image](https://user-images.githubusercontent.com/86640902/209023584-7cbfe43e-4d45-42a0-a5d9-37900b8e2c1e.png)
 
-Surface concentration
+**Plot of surface concentration**
 
 ![image](https://user-images.githubusercontent.com/86640902/209023651-0cb2ebe5-e095-41e1-9bd9-f9cdf65746fe.png)
 
-Concentration changes over time at the center point
+**Concentration changes over time at the center point**
 
 ![image](https://user-images.githubusercontent.com/86640902/209028214-8a301ccb-f133-4c1b-949b-7b758372cb2f.png)
 
