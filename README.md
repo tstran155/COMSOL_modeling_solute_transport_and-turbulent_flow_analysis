@@ -30,15 +30,17 @@ Here are the data input for the model and some key results.
 | P_ini	| 1.01e5[Pa]	| 1.01E5 Pa	| Initial pressure |
 | P_set	| 1.39e7[Pa]	| 1.39E7 Pa	| Setting pressure |
 | P_inj	| 5.45e6[Pa]	| 5.45E6 Pa	| Injection pressure |
-| TK	| 273+50[K]	| 323 K	| System temperature |
+| T	| 323[K]	| 323 K	| System temperature |
 | q	| 6.39E-7[m^3/s]	| 6.39E-7 m³/s	| Injection rate |
-| A	| 0.00828[m^2]	| 0.00828 m²	| Surface area |
-| M_C1	| 0.01604[kg/mol]	| 0.01604 kg/mol	| Molecular weight of gas |
-| ro_oil	| 820[kg/m^3]	| 820 kg/m³	| Density of oil |
+| A	| 0.00828[m^2]	| 0.00828 m²	| System surface area |
+| M_C1	| 0.01604[kg/mol]	| 0.01604 kg/mol	| Molecular weight of methane |
+| rho_oil	| 820[kg/m^3]	| 820 kg/m³	| Density of oil |
 
-**Geometry of the system and boundary conditions**
+**Simplified model geometry and boundary conditions**
 
-The system has a square shape with three no flux boundaries and one open boundary for gas injection. Note that I included a center point to monitor the concentration changes over the course of the expriment. 
+The system has a square shape with three no flux boundaries and one open boundary for gas injection. Note that I included a center point to monitor the concentration changes over the course of the expriment.
+
+I also assume that there is essentially no capillary transition zone and that the inlet is just a flat and immovable interface. The space above the oil phase is evacuated and gas injection begins by introducing high-pressure methane from the top. 
 
 ![Geometry](https://user-images.githubusercontent.com/86640902/209020350-a7b6245a-777b-45c9-8286-8179784ca0c6.png)
 
