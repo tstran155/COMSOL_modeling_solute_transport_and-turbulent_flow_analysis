@@ -4,6 +4,8 @@ COMSOL Multiphysics is capable of modeling and analyzing a wide range of physica
 
 
 I used the Transport of Diluted Species and Large Eddy Simulation Residual Based Variational Multiscale (LES RBVM) Modules in COMSOL Multiphysics to model the transport of gas into the bulk oil phase during gas injection processes. This model was used to simulate the visualization study of C1/Montney-oil interactions as detailed in the attached article SPE-201109-PA.
+
+
 Main steps to set up the COMSOL model and perform computation of pressure, velocity and concentration over time are as follows:
 
 
