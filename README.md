@@ -36,6 +36,8 @@ Here are the data input for the model and some key results.
 
 **Geometry of the system and boundary conditions**
 
+The system has a square shape with three no flux boundaries and one open boundary for gas injection. Note that I included a center point to monitor the concentration changes over the course of the expriment. 
+
 ![Geometry](https://user-images.githubusercontent.com/86640902/209020350-a7b6245a-777b-45c9-8286-8179784ca0c6.png)
 
 **System mesh**
