@@ -35,7 +35,7 @@ Surface concentration
 
 Concentration changes over time at the center point
 
-![image](https://user-images.githubusercontent.com/86640902/209019163-29b680bf-03a6-4c6a-9594-79315b156db9.png)
+![image](https://user-images.githubusercontent.com/86640902/209028214-8a301ccb-f133-4c1b-949b-7b758372cb2f.png)
 
 Gas transport during injection processes
 
