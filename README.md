@@ -42,7 +42,7 @@ The system has a square shape with three no flux boundaries and one open boundar
 
 I also assume that there is essentially no capillary transition zone and that the inlet is just a flat and immovable interface. The space above the oil phase is evacuated and gas injection begins by introducing high-pressure methane from the top. 
 
-![image](https://user-images.githubusercontent.com/86640902/209224995-e8b3694d-72ee-4be6-929b-c5ce27587587.png)
+![image](https://user-images.githubusercontent.com/86640902/209225234-73cfc297-718f-46c0-90fd-7e3eb3e8033a.png)
 
 **System mesh**
 
