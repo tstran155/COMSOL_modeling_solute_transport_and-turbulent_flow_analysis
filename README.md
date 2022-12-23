@@ -38,9 +38,7 @@ Here are the data input for the model and some key results.
 
 **Simplified model geometry and boundary conditions**
 
-The system has a square shape with three no flux boundaries and one open boundary for gas injection. Note that I included a center point to monitor the concentration changes over the course of the expriment.
-
-I also assume that there is essentially no capillary transition zone and that the inlet is just a flat and immovable interface. The space above the oil phase is evacuated and gas injection begins by introducing high-pressure methane from the top. 
+The system has a square shape with three no flux boundaries and one open boundary for gas injection. The space above the oil phase is evacuated and gas injection begins by introducing high-pressure methane from the top. Note that I included a center point to monitor the concentration changes over the course of the expriment.
 
 ![image](https://user-images.githubusercontent.com/86640902/209225234-73cfc297-718f-46c0-90fd-7e3eb3e8033a.png)
 
