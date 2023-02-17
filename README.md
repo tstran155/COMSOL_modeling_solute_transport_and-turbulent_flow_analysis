@@ -1,4 +1,4 @@
-# COMSOL modeling of gas transport and turbulent flow analysis during gas injection experiments
+# COMSOL modeling of solute transport and turbulent flow analysis during gas injection experiments
 
 COMSOL Multiphysics is capable of modeling and analyzing a wide range of physical phenomena, including the transport of gas into the bulk oil phase during gas injection or CO2 sequestration. This type of phenomenon can occur in a variety of applications, such as in the oil and gas industry, where gas may be injected into an oil and gas reservoirs for storage.
 
